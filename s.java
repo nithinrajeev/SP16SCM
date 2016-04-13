@@ -1,3 +1,4 @@
+<<<<<<< 27f77f0a32320c5b29ce6fc33d380554be244de6
 First Name Added
 
 SSP16SCM13S
@@ -30,3 +31,6 @@ SSP16SCM80P
 SSP16SCM13B
 
 Last Name Added
+=======
+SSP16SCM59S
+>>>>>>> Fixes#21. SSP16SCM59S first name added

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 First Name Added
 
 SSP16SCM13S
@@ -32,8 +31,4 @@ SSP16SCM13B
 
 Last Name Added
 
-
-=======
-SSP16SCM05D
->>>>>>> 8da1cdb4db9c59ee3984844b5c0191d51f7b9bc4
 

@@ -7,7 +7,3 @@ FSP16SCM21S
 
 
 Last Name Added
-
-=======
- FSP16SCM80A
->>>>>>> origin/master

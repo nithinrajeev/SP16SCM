@@ -8,4 +8,3 @@ BSP16SCM30S
 
 Last Name Added
 
-SSP16SCM13B

@@ -8,3 +8,5 @@ MSP16SCM44K
 
 Last Name Added
 
+SSP16SCM82M
+

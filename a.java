@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 First Name Added
 
 ASP16SCM86T
@@ -13,8 +12,3 @@ ASP16SCM31G
 ASP16SCM29A
 
 Last Name Added
-
-
-=======
-ASP16SCM83T
->>>>>>> 53793829912e9636bc2fce022a203be060a57a35

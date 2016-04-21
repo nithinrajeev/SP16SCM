@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< 224b9842f4c49d844561ea9716b3d246c1abc048
 First Name Added
 
@@ -17,3 +18,6 @@ Last Name Added
 =======
 ASP16SCM31G
 >>>>>>> Fixes #41.ASP16SCM31G first name added
+=======
+ASP16SCM31G
+>>>>>>> 3836796f36cd58911b7faaf678cdd9a6235fce90

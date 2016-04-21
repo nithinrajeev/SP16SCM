@@ -1,3 +1,4 @@
+<<<<<<< 3a1801dc9036757cee68623e82f4537fdbd7080e
 <<<<<<< 4ffb437b8182195a91137222c7ed82322bcf4eac
 <<<<<<< 1b0606d5da57c6758a681f0b2eb3ac998c88ecb0
 <<<<<<< 6123227b1caa2ded1857ed6880a5a818c99e8adf
@@ -31,4 +32,7 @@ VSP16SCM25D
 >>>>>>> Fixes #75. VSP16SCM25D first name added”
 =======
 VSP16SCM25
+>>>>>>> Fixes #75. VSP16SCM25D first name added”
+=======
+VSP16SCM25D
 >>>>>>> Fixes #75. VSP16SCM25D first name added”

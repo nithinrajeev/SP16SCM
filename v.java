@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< 3a1801dc9036757cee68623e82f4537fdbd7080e
 <<<<<<< 4ffb437b8182195a91137222c7ed82322bcf4eac
 <<<<<<< 1b0606d5da57c6758a681f0b2eb3ac998c88ecb0
@@ -36,3 +37,6 @@ VSP16SCM25
 =======
 VSP16SCM25D
 >>>>>>> Fixes #75. VSP16SCM25D first name added”
+=======
+VSP16SCM25D
+>>>>>>> 7396f099c6a728c2d8cee73ed2d81fac41d5091b

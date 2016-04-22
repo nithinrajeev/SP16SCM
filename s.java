@@ -33,4 +33,3 @@ SSP16SCM13B
 Last Name Added
 =======
 SSP16SCM48N
->>>>>>> Fixes#60. SSP16SCM48N first name added

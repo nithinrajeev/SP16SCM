@@ -8,3 +8,4 @@ KSP16SCM63M
 
 Last Name Added
 
+VSP16SCM66K
